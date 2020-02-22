@@ -8,9 +8,9 @@
     "pages/pay-result/pay-result"
   ],
   "window": {
-    "navigationBarTitleText": "米店",
+    "navigationBarTitleText": "红火点餐",
     "navigationBarTextStyle": "white",
-    "navigationBarBackgroundColor": "#f68e35",
+    "navigationBarBackgroundColor": "#FF0000",
     "backgroundColor": "#FFFFFF",
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": false
@@ -37,7 +37,7 @@
       }
     ],
     "backgroundColor": "#F5F5F5",
-    "selectedColor": "#f68e35",
+    "selectedColor": "#FF0000",
     "color": "#989898",
     "borderStyle": "white",
     "position": "bottom"
